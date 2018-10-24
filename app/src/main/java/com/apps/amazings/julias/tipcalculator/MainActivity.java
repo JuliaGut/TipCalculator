@@ -12,6 +12,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 import butterknife.OnTextChanged;
 
+//Test Kommentar
 public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.etBillamount)
