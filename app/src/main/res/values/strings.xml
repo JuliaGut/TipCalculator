@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="main_hint_billamount">Enter bill amount here</string>
+    <string name="main_msg_servicerating">Service rating</string>
+    <string name="main_msg_billamount">Bill amount</string>
+    <string name="main_msg_tipPercentage">%10.0f %% tip</string>
+    <string name="main_msg_tipTotal">$%10.2f tip total</string>
+    <string name="main_msg_billtotal">Bill total</string>
+    <string name="main_msg_billTotalResult">$%10.2f</string>
+    <string name="main_contentDescr_goodService">The service was excellent</string>
+    <string name="main_contentDescr_okService">The service was good</string>
+    <string name="main_contentDescr_badService">The service was ok</string>
+
+</resources>

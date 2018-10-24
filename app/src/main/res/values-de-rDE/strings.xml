@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trinkgeld Rechner</string>
+    <string name="main_hint_billamount">Rechnungsbetrag hier eingeben</string>
+    <string name="main_msg_billamount">Rechnungsbetrag</string>
+    <string name="main_msg_servicerating">Zufriedenheit</string>
+    <string name="main_msg_tipPercentage">%10.0f %% Trinkgeld</string>
+    <string name="main_msg_tipTotal">€%10.2f Trinkgeld gesamt</string>
+    <string name="main_msg_billtotal">Gesamtbetrag</string>
+    <string name="main_msg_billTotalResult">€%10.2f</string>
+    <string name="main_contentDescr_goodService">Der Service war gut</string>
+    <string name="main_contentDescr_okService">Alles in Ordnung</string>
+    <string name="main_contentDescr_badService">Ich war enttäuscht</string>
+</resources>
